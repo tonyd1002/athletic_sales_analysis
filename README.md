@@ -1,1 +1,1 @@
-# athletic_sales_analysis
+This project analyzes sales data from 2020 and 2021 to uncover trends and insights, including total sales, product performance, and regional breakdowns. It uses Python and Pandas for data manipulation and analysis.
